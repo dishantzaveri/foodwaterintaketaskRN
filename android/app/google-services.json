@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937443250423",
+    "project_id": "watertracker-8ed35",
+    "storage_bucket": "watertracker-8ed35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937443250423:android:498e174fae44179a7683f2",
+        "android_client_info": {
+          "package_name": "com.foodwaterrn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937443250423-189d4mc5knucj57jhgl6ols0ei96sg27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvdmWoKvq_zSVEr1OUGCwSR-abarZM6BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937443250423-189d4mc5knucj57jhgl6ols0ei96sg27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
